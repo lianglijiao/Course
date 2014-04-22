@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services>
+    <service name="CourseWebSerive">
+      <implementation-class>com.lijiao.webservice.CourseWebSerive</implementation-class>
+    </service>
+    <service name="QuizWebService">
+      <implementation-class>com.lijiao.webservice.QuizWebService</implementation-class>
+    </service>
+    <service name="UserWebService">
+      <implementation-class>com.lijiao.webservice.UserWebService</implementation-class>
+    </service>
+  </services>
+  <clients/>
+</jax-ws>
